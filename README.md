@@ -64,6 +64,8 @@ An intelligent AI-powered application that automatically summarizes emails and g
 
 ## Usage
 
+### Local Deployment
+
 1. **Start the Streamlit application**
    ```bash
    streamlit run app.py
@@ -77,6 +79,20 @@ An intelligent AI-powered application that automatically summarizes emails and g
    - Select your preferred reply tone from the sidebar
    - Click "Analyze & Generate Replies 🚀" button
    - Review the generated summary and reply options
+
+### Cloud Deployment
+
+Deploy this application to Streamlit Cloud for free:
+
+1. **Push code to GitHub** (already done ✓)
+2. **Visit [Streamlit Cloud](https://streamlit.io/cloud)**
+3. **Connect your GitHub account and deploy**
+   - Select the repository: `AI-Email-Summarizer-and-Reply-Generator-Agent`
+   - Set the main file path: `app.py`
+   - Add your `GEMINI_API_KEY` in the Secrets section (equivalent to `.env`)
+4. **Share your live app link** with others!
+
+**Live Demo**: Coming soon after cloud deployment! 🚀
 
 ## Project Structure
 
