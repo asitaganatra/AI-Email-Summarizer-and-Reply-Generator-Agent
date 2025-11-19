@@ -92,7 +92,7 @@ Deploy this application to Streamlit Cloud for free:
    - Add your `GEMINI_API_KEY` in the Secrets section (equivalent to `.env`)
 4. **Share your live app link** with others!
 
-**Live Demo**: Coming soon after cloud deployment! 🚀
+**Live Demo**: https://ai-email-summarizer-and-reply-generator-agent-c8fvh6iwpgyybftj.streamlit.app/�
 
 ## Project Structure
 
